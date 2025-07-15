@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 # TemporalStabilizer
 
 **TemporalStabilizer** is a lightweight Python library designed to stabilize classification decisions over time using weighted temporal logic. It is useful in video analytics, object tracking, or any context where per-frame classification may fluctuate and you want a robust final decision.

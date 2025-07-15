@@ -6,7 +6,7 @@ setup(
     description='Lightweight temporal class stabilizer for tracking and classification tasks',
     author='Ali A Yehya',
     author_email='ali.aljanabi795@gmail.com',
-    url='https://github.com/your-repo/temporal-stabilizer',
+    url='https://github.com/aliabd97/temporal-stabilizer',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',

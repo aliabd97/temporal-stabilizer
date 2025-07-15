@@ -69,4 +69,4 @@ MIT License. Free for academic and commercial use.
 
 ## 👨‍💻 Author
 
-Developed by [Ali A Yehya]. Contributions welcome!
+Developed by Ali A Yehya. Contributions welcome!
